@@ -1,0 +1,30 @@
+_repo: The-Goblins-Christmas_21784
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sharp, Alexander
+    gutenberg_agent_id: '24886'
+    url: http://www.gutenberg.org/2009/agents/24886
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Elizabeth
+    gutenberg_agent_id: '24885'
+    url: http://www.gutenberg.org/2009/agents/24885
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas -- Juvenile poetry'
+- !lcc 'PZ'
+title: The Goblins' Christmas
+url: http://www.gutenberg.org/ebooks/21784
